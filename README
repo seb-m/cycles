@@ -1,0 +1,4 @@
+# Get number of ticks since reset.
+>>> import cycles
+>>> cycles.ticks()
+32088726684067.0
